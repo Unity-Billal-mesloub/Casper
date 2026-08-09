@@ -1,8 +1,8 @@
 # Casper
 
-A classic theme for [Ghost](http://github.com/tryghost/ghost/), originally the default theme. These days, our default theme is [Source](http://github.com/tryghost/source/)
+A classic theme for [Ghost](http://github.com/Unity-Billal-mesloub/ghost/), originally the default theme. These days, our default theme is [Source](http://github.com/Unity-Billal-mesloub/source/)
 
-This is the latest development version of Casper! If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Casper/releases) page.
+This is the latest development version of Casper! If you're just looking to download the latest release, head over to the [releases](https://github.com/Unity-Billal-mesloub/Casper/releases) page.
 
 &nbsp;
 
@@ -74,7 +74,7 @@ pnpm ship
 # PostCSS Features Used
 
 - Autoprefixer - Don't worry about writing browser prefixes of any kind, it's all done automatically with support for the latest 2 major versions of every browser.
-- [Color Mod](https://github.com/jonathantneal/postcss-color-mod-function)
+- [Color Mod](https://github.com/Unity-Film-and-animation-industry/postcss-color-mod-function)
 
 
 # SVG Icons
@@ -83,10 +83,3 @@ Casper uses inline SVG icons, included via Handlebars partials. You can find all
 
 You can add your own SVG icons in the same manner.
 
-# Translations
-
-Please see [@TryGhost/Themes/theme-translations/README.md](https://github.com/TryGhost/Themes/blob/main/packages/theme-translations/README.md) for how to build, edit, or contribute translations.
-
-# Copyright & License
-
-Copyright (c) 2013-2026 Ghost Foundation - Released under the [MIT license](LICENSE).
